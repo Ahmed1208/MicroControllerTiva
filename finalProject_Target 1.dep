@@ -1,0 +1,33 @@
+Dependencies for Project 'finalProject', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x532C4792)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\main.c)(0x5EDBF79C)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (tm4c123gh6pm.h)(0x5EDBF78F)
+I (GPIO.h)(0x5EDBF821)
+I (common_macros.h)(0x5EDBF818)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C819B4)
+I (UART.h)(0x5EDBF845)
+I (KeyPad.h)(0x5EDBF730)
+F (..\..\..\GPIO\GPIO.c)(0x5E62B95A)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\gpio.o --omf_browse .\gpio.crf --depend .\gpio.d)
+I (..\..\..\GPIO\GPIO.h)(0x5EDBF4E3)
+I (..\..\..\GPIO\common_macros.h)(0x5E5FB1B6)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:/Keil/Labware/inc/tm4c123gh6pm.h)(0x5388525A)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C819B4)
+F (..\..\..\GPIO\KeyPad.c)(0x5ECC5AA3)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\keypad.o --omf_browse .\keypad.crf --depend .\keypad.d)
+I (..\..\..\GPIO\KeyPad.h)(0x5E64C35B)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C819B4)
+I (..\..\..\GPIO\GPIO.h)(0x5EDBF4E3)
+I (..\..\..\GPIO\common_macros.h)(0x5E5FB1B6)
+I (C:/Keil/Labware/inc/tm4c123gh6pm.h)(0x5388525A)
+I (C:\Keil\ARM\ARMCC\include\assert.h)(0x51C819B4)
+F (..\..\..\GPIO\UART.c)(0x5EDB0E52)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (C:/Users/ahmed/Desktop/ahmed/GPIO/UART.h)(0x5EDB0E5C)
+I (C:/Users/ahmed/Desktop/ahmed/GPIO/common_macros.h)(0x5E5FB1B6)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:/Keil/EE319Kware/inc/tm4c123gh6pm.h)(0x5388606A)
